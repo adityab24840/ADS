@@ -1,2 +1,2 @@
 # ADS
- Applied Data Structures
+ Algorithms and Data Structures
